@@ -10,7 +10,7 @@ router.get('/', function(req, res, next) {
 
   const message = {
       from: 'elonmusk@tesla.com',
-      to: 'mayasasson22@gmail.com',
+      to: 'fakedb@gmail.com',
       subject: 'Design Your Model S | Tesla',
       html: '<h1>Have the most fun you can in a car!</h1><p>Get your <b>Tesla</b> today!</p>',
   };
